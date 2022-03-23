@@ -10,6 +10,5 @@
 <a href="https://www.linkedin.com/in/matheusandrepalmieri/" target="_blank">LinkedIn</a>
 
 ---
-***
 
 `Matheus Palmieri`
