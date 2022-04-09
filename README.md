@@ -1,30 +1,37 @@
 <!-- Título -->
 
-<h1 align="center">README EM DESENVOLVIMENTO</h1>
+<h1 align="center">Fashion</h1>
 
 <!-- Descrição -->
 
-<p align="center">descrição</p>
+<p align="center">Blog de modelos simples</p>
 
 <!-- Súmario -->
 
 <p align="center">
  <a href="#features">Features</a> •
  <a href="#pré-requisitos">Pré Requisitos</a> •
- <a href="#rodando-o-mobile">Rodando A Aplicação</a> •
+ <a href="#rodando-a-aplicação">Rodando A Aplicação</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
 </p>
 
-<img src="image/imagem.png" width="1366px">
+<!-- Site -->
+
+<h2 align="center">Site</h2>
+
+<p align="center">
+ <a href="https://fashion-mathueuspalmieri.netlify.app/">Site Do Projeto</a>
+</p>
+
+<img src="image/imagem.png" width="1366px" align="center">
 
 <!-- Atualizações -->
 
 ### Features
 
 - [x] Criar logo
-- [x] Criar Menu
-- [ ] Corrigir Cores
+- [x] Corrigir Imagens
 
 ---
 
@@ -37,7 +44,7 @@ Você também vai precisar configurar o ambiente para desenvolvimento mobile no 
 
 <br>
 
-### Rodando o Mobile
+### Rodando A Aplicação
 
 ```bash
 # Clone este repositório
@@ -63,7 +70,7 @@ $ npm ios
 
 ---
 
-### Tecnologias & Linguagens
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -74,11 +81,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-### Autor | Author
+### Autor
 
-Create for `<b><a href="https://www.instagram.com/matheuspalmierigt/">Matheus Palmieri</b>👨‍💻</a>`
+Create for <b>`Matheus Palmieri`</b>👨‍💻
 
 <br>
 <br>
 
-<p align="center">🎉Projeto (Nome do Projeto) Finalizado🚀</p>
+<p align="center">🎉Projeto Fashion Finalizado🚀</p>
