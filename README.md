@@ -76,8 +76,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML](https://html.com/)
 - [CSS](https://html.com/css/)
-- [JavaScript](https://www.javascript.com/)
-- [React Native](https://reactnative.dev/)
 
 ---
 
