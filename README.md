@@ -4,7 +4,7 @@
 
 <!-- Descrição -->
 
-<p align="center">Blog de modelos simples</p>
+<p align="center">Blog / WebSite simples de moda.</p>
 
 <!-- Súmario -->
 
